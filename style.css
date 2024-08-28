@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.containter{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    border-radius: 15px;
+    height: 80px;
+}
+
+h1{
+    text-align: center;
+}
+li{
+    display: inline;
+    color: gray;
+    cursor: pointer;
+    
+}
+ul{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+li:hover{
+    background-color: black;
+    color: white;
+}
+
+.section-2__one,.section-2__two,.section-2__three,.section-2__four{
+    display: inline-block;
+    border: solid black 1px;
+    width: 210px;
+    
+}
+.section-2{
+    text-align: center;
+}
+.section-2__one img{
+    width: 210px;
+    height: 210px;
+}
+.section-2__two img{
+    width: 210px;
+    height: 210px;
+}
+.section-2__three img{
+    width: 210px;
+    height: 210px;
+}
+.section-2__four img{
+    width: 210px;
+    height: 210px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 4px;
+    border-radius: 2px;
+    
+}
+.section-3{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.Name,.Age,.Email td{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 50px;
+}
+
+table{
+    margin-left: 42%;
+    margin-top: 5px;
+}
+.button{
+    margin-top: 8px;
+    background-color: yellow;
+    color: black;
+    width: 400px;
+    border-radius: 3px;
+}
